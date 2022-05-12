@@ -9,9 +9,11 @@ This repository is combining [Semantic Segmentation](https://github.com/pierrext
 <br>
 <br>
 
+You can read about it [here](https://medium.com/@pierre.tardif00/nap-framework-semantic-segmentation-using-oak-d-lite-camera-and-feedback-628839e69463).
+
 <br>
 
-![.](./Assets/imgs/Kicking.gif)
+![.](./Assets/imgs/SSFM-01.gif)
 
 
 <br>
